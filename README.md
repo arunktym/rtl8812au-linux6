@@ -147,7 +147,7 @@ sed -i 's/CONFIG_PLATFORM_ARM64_RPI = n/CONFIG_PLATFORM_ARM64_RPI = y/g' Makefil
 
 | Distro | Kernel | Status |
 |--------|--------|--------|
-| Ubuntu 24.04 | 6.17.0-19-generic | Working |
+| Ubuntu 24.04 | 6.17.0-20-generic | Working |
 
 ### Credits & Contributors
 
